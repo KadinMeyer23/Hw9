@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlA/w7VV68g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadin\\Desktop\\All Hw For Cs122\\Hw8 Assignments\\LeetCode4_q3\\LeetCode4_q3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
